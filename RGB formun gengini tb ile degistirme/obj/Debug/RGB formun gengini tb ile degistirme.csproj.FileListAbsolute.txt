@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\bin\Debug\RGB formun gengini tb ile degistirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\bin\Debug\RGB formun gengini tb ile degistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\bin\Debug\RGB formun gengini tb ile degistirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB_formun_gengini_tb_ile_degistirme.form_1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB_formun_gengini_tb_ile_degistirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\RGB formun gengini tb ile degistirme\RGB formun gengini tb ile degistirme\obj\Debug\RGB formun gengini tb ile degistirme.pdb
